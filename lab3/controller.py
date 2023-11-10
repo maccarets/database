@@ -3,7 +3,7 @@
 import mvc_exceptions as mvc_exc
 
 fdgbvdxf
-class Controller(object):
+class Controller(object):gycfhgnfvbcfv
 
     def __init__(self, model, view):
         self.model = model
