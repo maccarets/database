@@ -1,7 +1,7 @@
  import psycopg2
 
 import mvc_exceptions as mvc_exc
-
+fgxfvc 
 fdgbvdxfачс тм мtjrhybrdthfb
 class Controller(object):gycfhgnfvbcfv
 
