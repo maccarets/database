@@ -1,6 +1,6 @@
 import model, view
 
-
+#rtrgfvdt
 class Controller:
     def __init__(self):
         self.model = model.Model("127.0.0.1", "5432", "Human resources", "postgres", "letubu17")
